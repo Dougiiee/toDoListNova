@@ -46,7 +46,7 @@ Lista de tarefas funcional com persistência de dados no navegador.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Dougiiee/NOME-DO-REPO.git
+git clone https://github.com/Dougiiee/toDoListNova
 ```
 
 2. Acesse a pasta do projeto:
